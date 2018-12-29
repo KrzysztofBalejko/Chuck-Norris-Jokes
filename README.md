@@ -5,7 +5,7 @@
 
 **Language: native JavaScript (no JQuery)**
 
-**API source: http://www.icndb.com/api/ **
+**API source: www.icndb.com/api**
 
 **Framework: Bootstrap (reduced to minimum)**
 
