@@ -1,6 +1,11 @@
-# Chak Norris Jokes
+# Chuck Norris Jokes
 
-* TBA
+
+* Application is generating jokes at random.
+ 
+* Enter a number of jokes you want to generate and click the button to see them.
+ 
+* You will never run out of jokes, believe me!
 
 
 **Language: native JavaScript (no JQuery)**
